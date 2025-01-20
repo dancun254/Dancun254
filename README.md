@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dancun254" alt="dancun254" /></a> </p>
 
 - 🔭 I have worked at  **Ignition Point solution**
-- I am a Co-founder and currently work at Ajinit Agency (A marketing agency) [https://www.ajinitagency.com/](https://www.ajinitagency.com/)
+- I am a Co-founder and currently work at Ajinit Agency (A marketing agency) [https://www.ajinitagency.com](https://www.ajinitagency.com)
 
 - 🌱 I’m currently learning **Computer Science**
 
