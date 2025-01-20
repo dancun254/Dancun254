@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dancun254" alt="dancun254" /></a> </p>
 
-- 🔭 I’m currently working on **Ignition Point It solution**
+- 🔭 I have worked at  **Ignition Point solution**
+- I am a Co-founder and currently work at Ajinit Agency (A marketing agency) [https://www.ajinitagency.com/](https://www.ajinitagency.com/)
 
 - 🌱 I’m currently learning **Computer Science**
 
@@ -13,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://dancun-juma.blogspot.com/](https://dancun-juma.blogspot.com/)
+- 👨‍💻 Here is My Portfolio [https://dancun-juma.blogspot.com/](https://dancun-juma.blogspot.com/)
 
 - 📝 I regularly write articles on [https://sites.google.com/view/healthy-life-heaven](https://sites.google.com/view/healthy-life-heaven)
 
