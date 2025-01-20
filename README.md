@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 Here is My Portfolio [https://dancun-juma.blogspot.com/](https://dancun-juma.blogspot.com/)
+- 👨‍💻 Here is My Portfolio [https://dancun-juma.blogspot.com](https://dancun-juma.blogspot.com)
 
 - 📝 I regularly write articles on [https://sites.google.com/view/healthy-life-heaven](https://sites.google.com/view/healthy-life-heaven)
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **odhiambodancun144@gmail.com**
 
-- 📄 My Electronics Store [https://insightfulelectronics.blogspot.com/](https://insightfulelectronics.blogspot.com/)
+- 📄 My Electronics Store [https://insightfulelectronics.blogspot.com](https://insightfulelectronics.blogspot.com)
 
 - ⚡ Get connected and updated **Stay tuned**
 
